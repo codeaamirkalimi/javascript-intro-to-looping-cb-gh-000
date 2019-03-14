@@ -8,3 +8,8 @@ function forLoop(array){
   }
   return array
 }
+function whileLoop(n){
+  while(countdown > 0){
+    
+  }
+}
